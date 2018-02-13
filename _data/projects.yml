@@ -6,18 +6,18 @@
   role: Alexander Hahn, Dr. Somya Mohanty, Dr. Prashanti Manda
   duration: 2017
   url: "https://link.springer.com/chapter/10.1007/978-3-319-59575-7_25"
-  description: In this research project we conducted keyword and topic model-based analysis on Bioinformatics literature. We identified top keywords and topics per year and explored their temporal popularity trends. Finally, we conducted network analysis to identify clusters of sub-areas/topics in Bioinformatics.
+  description: In this research project, we conducted keyword and topic model-based analysis on Bioinformatics literature. We identified top keywords- and topics-per-year and explored their temporal popularity trends. Finally, we used network analysis to identify clusters of sub-areas/topics in Bioinformatics.
                 <ul class="project-item-list">
                 <li><i>What's Hot and What's Not - Exploring Trends in Bioinformatics Literature Using Topic Modeling and Keyword Analysis</i></li>
                 <li>Published by Springer on May 31, 2017 as an open access conference paper</li>
                 <li>Part of the <i>Lecture Notes in Computer Science</i> book series (LNCS, volume 10330)</li>
-                <li>Presented at 2017 International Symposium on Bioinformatics Research and Applications (ISBRA)</li>
-                <li>Presented at 2017 State of North Carolina Undergraduate Research and Creativity Symposium (SNCURCS)</li>
+                <li>Presented at the 2017 International Symposium on Bioinformatics Research and Applications (ISBRA)</li>
+                <li>Presented at the 2017 State of North Carolina Undergraduate Research and Creativity Symposium (SNCURCS)</li>
               </ul>
 
 # Volag
 - project: Volag
-  role: Travis, Cox, Alex Hahn, Josh Moore, Cory Sabol
+  role: Travis Cox, Alex Hahn, Josh Moore, Cory Sabol
   duration: 2017
   url: "https://github.com/UNCG-CSE/Volag"
   description: <ul class="project-item-list">
