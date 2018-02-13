@@ -1,19 +1,33 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# IBM
+- company: IBM
+  position: Software Engineering Intern
+  duration: June 2017 &mdash; Present
+  summary: <ul class="resume-item-list">
+              <li>Intern in the Blockchain & Cognitive Squad within the Transformations & Operations department</li>
+              <li>Developing business-to-business supply chain management applications built on Hyperledger Fabric Blockchain technology</li>
+              <li>Deployed the Blockchain network on multiple physical hosts, in different geographic locations - a first for any Blockchain team at IBM</li>
+              <li>Working on an Agile team utilizing Scrum and DevOps practices at all phases of the SDLC</li>
+            </ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  # UNCG
+- company: The University of North Carolina at Greensboro
+  position: Research Assistant
+  duration: August 2016 &mdash; Present
+  summary: <ul class="resume-item-list">
+              <li>Research assistant to Dr. Prashanti Manda, UNCG Department of Computer Science</li>
+              <li>Involved with collaboration and development throughout the project process - from conception to publishing</li>
+              <li>Projects involve Bioinformatics, Data Science, Statistical Analysis, and Machine Learning</li>
+              <li>Developing primarily in Python using iPython/Jupyter notebooks</li>
+            </ul>
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Panasonic Avionics
+- company: Panasonic Avionics
+  position: Automation Engineering Intern
+  duration: October 2014 &mdash; July 2015
+  summary: <ul class="resume-item-list">
+              <li>Intern within the Development Test Engineering department</li>
+              <li>Developed automated testing tools which reduced testing time by over 50%</li>
+              <li>Responsible for effective, detail-oriented system integration testing of software systems and components</li>
+              <li>Worked primarily with Linux embedded systems through the Bash shell along with development in Python and Java</li>
+            </ul>

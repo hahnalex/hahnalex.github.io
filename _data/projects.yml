@@ -1,16 +1,50 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# What's Hot and What's Not...
+- project: What's Hot and What's Not...
+  role: Alexander Hahn, Dr. Somya Mohanty, Dr. Prashanti Manda
+  duration: 2017
+  url: "https://link.springer.com/chapter/10.1007/978-3-319-59575-7_25"
+  description: In this research project we conducted keyword and topic model-based analysis on Bioinformatics literature. We identified top keywords and topics per year and explored their temporal popularity trends. Finally, we conducted network analysis to identify clusters of sub-areas/topics in Bioinformatics.
+                <ul class="project-item-list">
+                <li><i>What's Hot and What's Not - Exploring Trends in Bioinformatics Literature Using Topic Modeling and Keyword Analysis</i></li>
+                <li>Published by Springer on May 31, 2017 as an open access conference paper</li>
+                <li>Part of the <i>Lecture Notes in Computer Science</i> book series (LNCS, volume 10330)</li>
+                <li>Presented at 2017 International Symposium on Bioinformatics Research and Applications (ISBRA)</li>
+                <li>Presented at 2017 State of North Carolina Undergraduate Research and Creativity Symposium (SNCURCS)</li>
+              </ul>
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# Volag
+- project: Volag
+  role: Travis, Cox, Alex Hahn, Josh Moore, Cory Sabol
+  duration: 2017
+  url: "https://github.com/UNCG-CSE/Volag"
+  description: <ul class="project-item-list">
+                  <li>Data-driven analysis of flight delays and their causes</li>
+                  <li>Collaborative project with three UNCG students</li>
+                  <li>Analyzed real-world datasets provided by the Department of Transportation and the National Oceanic and Atmospheric Administration (NOAA)</li>
+                  <li>Performed data wrangling, correlation analysis, statistical analysis, and machine learning</li>
+                  <li>Selected to present at the 2017 Computer Science Department Industry Advisory Board Meeting</li>
+                </ul>
+
+# Chat Client
+- project: Encrypted Chat Client
+  role: ""
+  duration: 2017
+  # url: ""
+  description: <ul class="project-item-list">
+                  <li>Developed a chat client to send and receive end-to-end encrypted communications</li>
+                  <li>Designed to maintain confidentiality and integrity of messages through encryption and digital signatures, as well as identity verificiation through certificates and a certificate authority</li>
+                  <li>Implemented in Java using the Java Cryptography Architecture (JCA)</li>
+                  <li>Utilized multiple cryptographic algorithms, including AES, RSA, Diffie-Hellman Key Agreement, SHA1, and X.509 certificates</li>
+                </ul>
+
+- project: Video Poker Desktop Application and Web Applet
+  role: ""
+  duration: 2013
+  # url: ""
+  description: <ul class="project-item-list">
+                  <li>Developed a video poker application employing the design methodologies of object-oriented programming (with an emphasis on encapsulation and inheritance) and graphical user interface development using the Java Swing library</li>
+                  <li>Created as a standalone desktop application and later optimized for web delivery using the Java Applet (JApplet) and JavaServer Pages (JSP) APIs</li>
+                </ul>
