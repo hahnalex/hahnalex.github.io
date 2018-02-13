@@ -40,6 +40,19 @@
                   <li>Utilized multiple cryptographic algorithms, including AES, RSA, Diffie-Hellman Key Agreement, SHA1, and X.509 certificates</li>
                 </ul>
 
+# Just Treats
+- project: Just Treats
+  role: ""
+  duration: 2016
+  url: "https://devpost.com/software/just-treats"
+  description: <ul class="project-item-list">
+                  <li>Designed and implemented an Android app and desktop webpage to crowdsource information about the best neighborhoods for Halloween trick-or-treating</li>
+                  <li>Built at the 2016 HackNC hackathon at UNC Chapel Hill - an overnight, 24-hour programming competition</li>
+                  <li>Competed on a team with 3 UNCG students</li>
+                  <li>Completed a minimum viable product (MVP) within 24 hours and gave a live demo to a panel of judges including CS faculty and industry professionals</li>
+                </ul>
+
+# Video Poker
 - project: Video Poker Desktop Application and Web Applet
   role: ""
   duration: 2013
