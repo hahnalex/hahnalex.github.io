@@ -1,15 +1,20 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: ISBRA Travel Fellowship
+  organization: National Science Foundation (NSF)
+  year: 2017
+  summary: Awarded a travel fellowship from the National Science Foundation to present at the 2017 International Symposium on Bioninformatics Research and Applications (ISBRA) in Honolulu, Hawaii
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+- award: Student Excellence Award
+  organization: The University of North Carolina at Greensboro
+  year: 2017
+  summary: <ul class="recognition-item-list">
+              <li>The highest academic honor given to undergraduates at UNCG</li>
+              <li>1 of 2 students nominated by the Computer Science department</li>
+              <li>1 of 50 recipients of the award out of the undergradaute population of 15,000+</li>
+              <li>Given in recognition of high academic achievement and significant service and leadership at the university</li>
+            </ul>
 
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+- award: Chancellor's List
+  organization: The University of North Carolina at Greensboro
+  year: 2015, 2016, 2017
+  summary: Awarded for earning a cumulative GPA of 3.65 or higher

@@ -35,7 +35,7 @@
   # url: ""
   description: <ul class="project-item-list">
                   <li>Developed a chat client to send and receive end-to-end encrypted communications</li>
-                  <li>Designed to maintain confidentiality and integrity of messages through encryption and digital signatures, as well as identity verificiation through certificates and a certificate authority</li>
+                  <li>Designed to maintain confidentiality and integrity of messages through encryption and digital signatures, as well as identity verification through certificates and a certificate authority</li>
                   <li>Implemented in Java using the Java Cryptography Architecture (JCA)</li>
                   <li>Utilized multiple cryptographic algorithms, including AES, RSA, Diffie-Hellman Key Agreement, SHA1, and X.509 certificates</li>
                 </ul>

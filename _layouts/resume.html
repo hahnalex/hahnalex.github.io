@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
-
+    <br>
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
@@ -49,7 +49,6 @@
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
-
         <header class="section-header">
           <h2>Experience</h2>
         </header>
@@ -72,6 +71,7 @@
       {% if site.resume_section_education %}
       <!-- begin Education -->
       <section class="content-section">
+        <br>
         <header class="section-header">
           <h2>Education</h2>
         </header>
@@ -100,6 +100,7 @@
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
+        <br>
         <header class="section-header">
           <h2>Projects</h2>
         </header>
@@ -119,9 +120,9 @@
       {% endif %}
 
       {% if site.resume_section_associations %}
-      <!-- begin Associations -->
+      <!-- begin Organizations -->
       <section class="content-section">
-
+        <br>
         <header class="section-header">
           <h2>Organizations</h2>
         </header>
@@ -129,27 +130,27 @@
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &nbsp;&bull;&nbsp; {{ association.year }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Associations -->
+      <!-- end Organizations -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
-
+        <br>
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Awards</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
+          <h4 class="resume-item-details">{{ recognition.organization }} &nbsp;&bull;&nbsp; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
         {% endfor %}
@@ -161,13 +162,13 @@
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
-
+        <br>
         <header class="section-header">
           <h2>Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <h4 class="resume-item-details"><i>{{ skill.skill }}</i></h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
@@ -179,7 +180,7 @@
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
       <section class="content-section">
-
+        <br>
         <header class="section-header">
           <h2>Outside Interests</h2>
         </header>
@@ -199,7 +200,7 @@
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
-
+        <br>
         <header class="section-header">
           <h2>Additional Links</h2>
         </header>
@@ -219,7 +220,7 @@
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
       <section class="content-section print-only">
-
+        <br>
         <header class="section-header">
           <h2>Social Links</h2>
         </header>
@@ -238,6 +239,8 @@
       </footer> -->
 
     </div>
+    <br>
+    <br>
 
   </body>
 
