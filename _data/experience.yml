@@ -3,7 +3,7 @@
 # USC
 - company: USC Information Sciences Institute (ISI)
   position: Graduate Research Assistant
-  duration: January 2019 &mdash; Present
+  duration: Jan 2019 &mdash; Present
   summary: <ul class="resume-item-list">
               <li>Member of USC STEEL&#58 Security Research Lab</li>
               <li><a href="https://steel.isi.edu/projects.html">Current Projects</a></li>
@@ -12,7 +12,7 @@
 # IBM
 - company: IBM
   position: Software Engineering Intern
-  duration: June 2017 &mdash; April 2018
+  duration: Jun 2017 &mdash; Apr 2018
   summary: <ul class="resume-item-list">
               <li>Designed and implemented a B2B supply chain application built on Blockchain technology</li>
               <li>Developed business-logic ‘Chaincode’ in Golang and server-side applications in Node.js</li>
@@ -23,7 +23,7 @@
   # UNCG
 - company: The University of North Carolina at Greensboro
   position: Undergraduate Research Assistant
-  duration: August 2016 &mdash; April 2018
+  duration: Aug 2016 &mdash; Apr 2018
   summary: <ul class="resume-item-list">
               <li>Collaborated closely with research advisors on ideas and project solutions</li>
               <li>Implemented Python scripts to perform data wrangling, statistical analysis, and machine learning</li>
@@ -33,7 +33,7 @@
 # Panasonic Avionics
 - company: Panasonic Avionics
   position: Automation Engineering Intern
-  duration: October 2014 &mdash; July 2015
+  duration: Oct 2014 &mdash; Jul 2015
   summary: <ul class="resume-item-list">
               <li>Developed iOS and Selenium automated testing tools which reduced testing time by over 50%</li>
               <li>Performed detail-oriented system integration testing of software systems and components </li>

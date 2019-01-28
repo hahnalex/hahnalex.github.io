@@ -30,7 +30,7 @@
 
 # Chat Client
 - project: Encrypted Chat Client
-  role: ""
+  role: UNCG CSC 580&#58 Cryptography and Security in Computing
   duration: 2017
   # url: ""
   description: <ul class="project-item-list">
@@ -42,14 +42,14 @@
 
 # Just Treats
 - project: Just Treats
-  role: ""
+  role: 2016 HackNC (24-hour hackathon at UNC Chapel Hill)
   duration: 2016
   url: "https://devpost.com/software/just-treats"
   description: <ul class="project-item-list">
-                  <li>Designed and implemented an Android app and desktop webpage to crowdsource information about the best neighborhoods for Halloween trick-or-treating</li>
-                  <li>Built at the 2016 HackNC hackathon at UNC Chapel Hill - an overnight, 24-hour programming competition</li>
-                  <li>Competed on a team with 3 UNCG students</li>
-                  <li>Completed a minimum viable product (MVP) within 24 hours and gave a live demo to a panel of judges including CS faculty and industry professionals</li>
+                  <li>Developed an Android app and web app to crowdsource information about the best neighborhoods for Halloween trick-or-treating</li>
+                  <li>Implemented Google Maps integration to display crowdsource results (GPS data) in a heatmap</li>
+                  <li>Collaborated with 3 UNCG students</li>
+                  <li>Completed an MVP within 24 hours and gave a live demo to a panel of judges</li>
                 </ul>
 
 # Video Poker
