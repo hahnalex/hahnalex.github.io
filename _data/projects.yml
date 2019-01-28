@@ -21,11 +21,11 @@
   duration: 2017
   url: "https://github.com/UNCG-CSE/Volag"
   description: <ul class="project-item-list">
-                  <li>Data-driven analysis of flight delays and their causes</li>
-                  <li>Collaborative project with three UNCG students</li>
-                  <li>Analyzed real-world datasets provided by the Department of Transportation and the National Oceanic and Atmospheric Administration (NOAA)</li>
-                  <li>Performed data wrangling, correlation analysis, statistical analysis, and machine learning</li>
-                  <li>Selected to present at the 2017 Computer Science Department Industry Advisory Board Meeting</li>
+                  <li>Conducted data-driven analysis of airline delays and causes</li>
+                  <li>Collaborated with three UNCG students</li>
+                  <li>Analyzed real-world datasets provided by the Department of Transportation and NOAA</li>
+                  <li>Implemented Python scripts for data wrangling, correlation analysis, and statistical analysis</li>
+                  <li>Selected to present at the 2017 UNCG CS Department, Industry Advisory Board Meeting</li>
                 </ul>
 
 # Chat Client
@@ -37,7 +37,7 @@
                   <li>Developed a chat client to send and receive end-to-end encrypted communications</li>
                   <li>Designed to maintain confidentiality and integrity of messages through encryption and digital signatures, as well as identity verification through certificates and a certificate authority</li>
                   <li>Implemented in Java using the Java Cryptography Architecture (JCA)</li>
-                  <li>Utilized multiple cryptographic algorithms, including AES, RSA, Diffie-Hellman Key Agreement, SHA1, and X.509 certificates</li>
+                  <li>Utilized multiple cryptographic algorithms, including AES, RSA, Diffie-Hellman Key Agreement, SHA1, and X.509</li>
                 </ul>
 
 # Just Treats

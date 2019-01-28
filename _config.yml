@@ -1,6 +1,6 @@
 # Site settings
-title: "Alex Hahn | Resume"
-description: "Alex Hahn's public resume."
+title: "Alex Hahn | CV"
+description: "Alex Hahn's public CV."
 
 # Build settings
 markdown: kramdown

@@ -1,24 +1,33 @@
 # Jobs
+
+# USC
+- company: USC Information Sciences Institute (ISI)
+  position: Graduate Research Assistant
+  duration: January 2019 &mdash; Present
+  summary: <ul class="resume-item-list">
+              <li>Member of USC STEEL&#59 Security Research Lab</li>
+              <li><a href="https://steel.isi.edu/projects.html">Current Projects</a></li>
+            </ul>
+
 # IBM
 - company: IBM
   position: Software Engineering Intern
-  duration: June 2017 &mdash; Present
+  duration: June 2017 &mdash; April 2018
   summary: <ul class="resume-item-list">
-              <li>Intern in the Blockchain & Cognitive Squad within the CIO organization</li>
-              <li>Developing business-to-business supply chain management applications built on Hyperledger Fabric Blockchain technology</li>
-              <li>Deployed Blockchain networks on multiple physical hosts, in different geographic locations - a first for any Blockchain team at IBM</li>
-              <li>Working on an Agile team utilizing Scrum and DevOps practices at all phases of the Software Development Life Cycle (SDLC)</li>
+              <li>Designed and implemented a B2B supply chain application built on Blockchain technology</li>
+              <li>Developed business-logic ‘Chaincode’ in Golang and server-side applications in Node.js</li>
+              <li>Completed the project within ten weeks, ending with a live demo to senior leadership</li>
+              <li>Contributed to an Agile team utilizing Scrum and DevOps practices at all phases of the SDLC</li>
             </ul>
 
   # UNCG
 - company: The University of North Carolina at Greensboro
-  position: Research Assistant
-  duration: August 2016 &mdash; Present
+  position: Undergraduate Research Assistant
+  duration: August 2016 &mdash; April 2018
   summary: <ul class="resume-item-list">
-              <li>Research assistant to Dr. Prashanti Manda, UNCG Department of Computer Science</li>
-              <li>Involved with collaboration and development throughout the project process - from conception to publishing</li>
-              <li>Projects involve bioinformatics, data science, statistical analysis, and machine learning</li>
-              <li>Developing primarily in Python using iPython/Jupyter notebooks</li>
+              <li>Collaborated closely with research advisors on ideas and project solutions</li>
+              <li>Implemented Python scripts to perform data wrangling, statistical analysis, and machine learning</li>
+              <li>Published one paper and presented at two conferences; additional papers are still in-progress</li>
             </ul>
 
 # Panasonic Avionics
@@ -26,8 +35,7 @@
   position: Automation Engineering Intern
   duration: October 2014 &mdash; July 2015
   summary: <ul class="resume-item-list">
-              <li>Intern within the Development Test Engineering department</li>
-              <li>Developed automated testing tools which reduced testing time by over 50%</li>
-              <li>Responsible for effective, detail-oriented system integration testing of software systems and components</li>
-              <li>Worked primarily with Linux embedded systems through the Bash shell along with development in Python and Java</li>
+              <li>Developed iOS and Selenium automated testing tools which reduced testing time by over 50%</li>
+              <li>Performed detail-oriented system integration testing of software systems and components </li>
+              <li>Worked primarily with Linux embedded systems along with development in Python and Java</li>
             </ul>

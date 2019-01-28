@@ -1,14 +1,15 @@
 # Degree
-- degree: Computer Science, B.S.
+- degree: M.S. Computer Science
+  uni: University of Southern California
+  year: 2018 &mdash; 2020
+  awards:
+    - award: Specialization in Data Science
+
+- degree: B.S. Computer Science
   uni: The University of North Carolina at Greensboro
   year: 2015 &mdash; 2018
   awards:
     - award: Student Excellence Award 2017
-    - award: Chancellor's List 2015, 2016, 2017
-    - award: 3.87 GPA
+    - award: 3.79 GPA
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: Computer Science
-  uni: Saddleback College
-  year: 2012 &mdash; 2015
-  # summary: You can choose to have either a single or multiple awards
