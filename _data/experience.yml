@@ -3,7 +3,7 @@
 # Viasat
 - company: Viasat
   position: Data Science Intern
-  Duration: <i>May 2019 &mdash; August 2019</i>
+  duration: <i>May 2019 &mdash; August 2019</i>
   summary: <ul class="resume-item-list">
               <li>Engineered a framework to detect and analyze anomalies in satellite data</li>
               <li>Developed Python modules to perform data munging, characterization, and visualization</li>
