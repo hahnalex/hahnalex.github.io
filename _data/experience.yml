@@ -1,18 +1,30 @@
 # Jobs
 
+# Viasat
+- company: Viasat
+  position: Data Science Intern
+  Duration: <i>May 2019 &mdash; August 2019</i>
+  summary: <ul class="resume-item-list">
+              <li>Engineered a framework to detect and analyze anomalies in satellite data</li>
+              <li>Developed Python modules to perform data munging, characterization, and visualization</li>
+              <li>Implemented algorithms for anomaly detection using machine learning and statistics-based approaches</li>
+
 # USC
 - company: USC Information Sciences Institute (ISI)
   position: Graduate Research Assistant
-  duration: Jan 2019 &mdash; Present
+  duration: <i>Jan 2019 &mdash; May 2019</i>
   summary: <ul class="resume-item-list">
               <li>Member of USC STEEL&#58 Security Research Lab</li>
               <li><a href="https://steel.isi.edu/projects.html">Current Projects</a></li>
+              <li>Member of <q>DEW&colon; Distributed Experiment Workflow</q> research project</li>
+              <li>Contributed to a new platform for improved experimentation on cyber-physical testbeds</li>
+              <li>Developed Python scripts for automated translation from Bash in to the new DEW language</li>
             </ul>
 
 # IBM
 - company: IBM
   position: Software Engineering Intern
-  duration: Jun 2017 &mdash; Apr 2018
+  duration: <i>Jun 2017 &mdash; Apr 2018</i>
   summary: <ul class="resume-item-list">
               <li>Designed and implemented a B2B supply chain application built on Blockchain technology</li>
               <li>Developed business-logic ‘Chaincode’ in Golang and server-side applications in Node.js</li>
@@ -23,7 +35,7 @@
   # UNCG
 - company: The University of North Carolina at Greensboro
   position: Undergraduate Research Assistant
-  duration: Aug 2016 &mdash; Apr 2018
+  duration: <i>Aug 2016 &mdash; Apr 2018</i>
   summary: <ul class="resume-item-list">
               <li>Collaborated closely with research advisors on ideas and project solutions</li>
               <li>Implemented Python scripts to perform data wrangling, statistical analysis, and machine learning</li>
@@ -33,7 +45,7 @@
 # Panasonic Avionics
 - company: Panasonic Avionics
   position: Automation Engineering Intern
-  duration: Oct 2014 &mdash; Jul 2015
+  duration: <i>Oct 2014 &mdash; Jul 2015</i>
   summary: <ul class="resume-item-list">
               <li>Developed iOS and Selenium automated testing tools which reduced testing time by over 50%</li>
               <li>Performed detail-oriented system integration testing of software systems and components </li>
