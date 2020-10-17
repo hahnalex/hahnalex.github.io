@@ -1,5 +1,14 @@
 # Jobs
 
+# Viasat II
+- company: Viasat
+  position: Machine Learning Scientist Intern
+  duration: <i>May 2020 &mdash; Present</i>
+  summary: <ul class="resume-item-list">
+              <li>Researching the capabilities of state-of-the-art computer vision models for real-time video analysis</li>
+              <li>Leveraging deep learning architectures in PyTorch, with CUDA for GPU acceleration</li>
+              <li>Demonstrating technical feasibility in the early stages of a new computer vision product</li>
+
 # Viasat
 - company: Viasat
   position: Data Science Intern
